@@ -12,11 +12,13 @@ Concepts:
 
 --Add address 
 
---Connect to bank account (100 points translate to $10)
 
 --Point scale to track tasks. 
 
 If done before due date, person gets 15 points. One due date 10 points. After due date, start to reduce 1 point each day.
+
+--Connect to bank account (100 points translate to $10)
+
 Users can input data and assign tasks to their "friends"
 
 Assign due dates, after which assignee gets alerted 

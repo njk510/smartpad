@@ -2,4 +2,4 @@ Front end- React
 
 Back end- Flask
 
-Data base- MySQL
+Data base- SQLlite
